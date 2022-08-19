@@ -1,2 +1,2 @@
 # Machine-Learning
-I have done machine learning,using scikitlearn
+Machine learning projects with scikitlearn(Normal Dataset and Remote sensing Dataset)
