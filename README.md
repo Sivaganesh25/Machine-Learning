@@ -7,7 +7,7 @@
 `the`
 
 '''python
-np.array(2,3)
+  np.array(2,3)
 '''
 
 
